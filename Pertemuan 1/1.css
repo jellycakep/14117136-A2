@@ -1,0 +1,64 @@
+body,html {
+    color:#000;
+    background:#dadada;
+}
+
+#header {
+    padding:5px 10px;
+    background:#d1c6a9;
+    width: 784px;
+    height: 200px;
+    border-style: solid;
+    border-width: thin;
+}
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+#wrapper {
+    width:804px;
+    margin: auto;
+    background:#eee01b;
+    border-style: solid;s
+}
+
+#main {
+    float:left;
+    width: 200px;
+    height: auto;
+    background:#eee01b;
+}
+
+#sidebar {
+    float:right;
+    width: 584px;
+    height: auto;
+    background:#cf8b9c;
+    border-style: solid;
+    border-width: thin;
+}
+
+#footer {
+    clear: both;
+    background:#9b729b;
+    padding:5px 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+}
+
+#navigation ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+#navigation li {
+    display:inline;
+    margin:0;
+    padding:0;
+}
