@@ -1,0 +1,22 @@
+{
+    "dataDiri": {
+      "nama": {
+        "pertama": "Vanesa",
+        "kedua": "Adhelia"
+      },
+      "gender": "Perempuan",
+      "hobi": {
+        "kegiatan1": "HIMALAYA",
+        "kegiatan2": "Karate"
+      },
+      "alamat": {
+        "jalan": "Jl Sultan Pesirah Lampung",
+        "kecamatan": "Way Hui",
+        "kota": "Lampung Selatan"
+      },
+      "socialMedia": {
+        "line": "adheliavns",
+        "instagram": "vanesaadhelia"
+      }
+    }
+  }

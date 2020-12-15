@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <pertama>Vanesa</pertama>
+        <kedua>Adhelia</kedua>
+    </nama>
+    <gender>Wanita</gender>
+    <hobi>
+        <kegiatan1>HIMALAYA</kegiatan1>
+        <kegiatan2>Karate</kegiatan2>
+    </hobi>
+    <alamat>
+        <jalan>JL. Sultan Pesirah Lampung</jalan>
+        <kecamatan>Way Hui</kecamatan>
+        <kota>Lampung Selatan</kota>
+    </alamat>
+    <socialMedia>
+        <line>adheliavns</line>
+        <instagram>vanesaadhelia</instagram>
+    </socialMedia>
+</dataDiri>
